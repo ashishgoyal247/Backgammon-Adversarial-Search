@@ -16,8 +16,8 @@ to home board from opponent's home board.
 
 
 #### Input
->C1 C2 C3 ...... C24
->B
+>C1 C2 C3 ...... C24   
+>B   
 >R1 R2
 
 Where C[24] is denotes the state of the board, with positive entries denoting white markers,
